@@ -1,10 +1,27 @@
-# My Protfolio Repo
-This Repo is about the portfolio project all of us students have to create a a part of the pro dev module here at Staffordshire University.
+# Breakfast
 
-Below are the tutorials I have followed in order to make my portfolio.
+Sike, none has been eaten today. i had toast yesterday though.
 
+[I have a linkedIn](https://www.linkedin.com/in/jake-sharples-4a5960222/)
 
-## Tutorial videos
-* Week 8 Pro Dev - [Getting your project onto github](https://www.youtube.com/watch?v=bB0iRQUw9OM)
-* Week 9 Pro Dev - [HTML Edit part 1 video](https://www.youtube.com/watch?v=8XIMAmUcBzg)
-* Week 10 Pro Dev - [README files and social media ready repos](https://www.youtube.com/watch?v=LIxn10HxQtA)
+And a cat:
+
+![A Cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Foctocat&psig=AOvVaw1SXALb9HJ-rG4lmCr_LvI4&ust=1638959663247000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDp1da-0fQCFQAAAAAdAAAAABAD)
+
+These are my Favorite games in order:
+1. Valorant
+2. Super Smash Bros Ultimate
+3. Minecraft
+4. BattleField 1
+5. Mario Party
+
+Here are some things I need to do:
+-[x]finish this section
+-[]finish my website
+-[]write the essay
+
+Also, check out this code i made!
+
+![Week 8 Program 2 Code](https://github.com/SharplesJ/GEC/blob/main/Week8_Program3/W8P3_Code.PNG)
+
+pretty cool right? :+1: 😆
