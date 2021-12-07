@@ -6,7 +6,7 @@ Sike, none has been eaten today. i had toast yesterday though.
 
 And a cat:
 
-![A Cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Foctocat&psig=AOvVaw1SXALb9HJ-rG4lmCr_LvI4&ust=1638959663247000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDp1da-0fQCFQAAAAAdAAAAABAD)
+![A Cat](https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=49ed3252c0b2ffb49cf8b508892e452d)
 
 These are my Favorite games in order:
 1. Valorant
@@ -16,9 +16,9 @@ These are my Favorite games in order:
 5. Mario Party
 
 Here are some things I need to do:
--[x]finish this section
--[]finish my website
--[]write the essay
+- [x]finish this section
+- []finish my website
+- []write the essay
 
 Also, check out this code i made!
 
