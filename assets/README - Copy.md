@@ -17,8 +17,8 @@ These are my Favorite games in order:
 
 Here are some things I need to do:
 - [x] finish this section
-- [] finish my website
-- [] write the essay
+- [ ] finish my website
+- [ ] write the essay
 
 Also, check out this code i made!
 
