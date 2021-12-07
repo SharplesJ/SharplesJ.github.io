@@ -16,9 +16,9 @@ These are my Favorite games in order:
 5. Mario Party
 
 Here are some things I need to do:
-- [x]finish this section
-- []finish my website
-- []write the essay
+- [x] finish this section
+- [] finish my website
+- [] write the essay
 
 Also, check out this code i made!
 
