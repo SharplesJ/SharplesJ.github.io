@@ -1,4 +1,4 @@
-# My Protfolio Repo
+# My Portfolio Repo
 This Repo is about the portfolio project all of us students have to create a a part of the pro dev module here at Staffordshire University.
 
 Below are the tutorials I have followed in order to make my portfolio.
